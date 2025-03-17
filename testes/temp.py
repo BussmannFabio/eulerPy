@@ -9,3 +9,6 @@ elif temperatura > 10:
     print("Está fresco.")
 else:
     print("Está frio!")
+
+
+
